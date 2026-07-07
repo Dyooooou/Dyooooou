@@ -2,38 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%20IX&descAlignY=60&descColor=C9B6E4" width="100%"/>
 
-### Hello, I'm Dyou
+### Oh. You're here.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=Curiosity+is+the+only+currency+worth+collecting.;Boring+problems+deserve+elegant+solutions.;Currently+running+simulations+in+another+universe." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=I+don't+repeat+myself.+Read+carefully.;Mediocrity+bores+me.+Elegance+doesn't.;This+puppet+is+running+experiments%2C+not+small+talk." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About the Researcher
+## About the Genius (You May Call Me Dyou)
 
-Computer and Informatics Engineering student at **Politeknik Negeri Bandung**, spending most of my waking hours between code editors and 3D viewports. Consider me a puppet running remote experiments — except the "space station" is just a laptop.
+Computer and Informatics Engineering student at **Politeknik Negeri Bandung** — though "student" undersells it. I spend my waking hours between code editors and 3D, running experiments most people wouldn't understand even if I explained them slowly. Think of this profile as a puppet, a remote extension of the real work. The "space station" is just a laptop, but the ambition is the same.
 
-- Currently designing a **tower defense game**
-- Experimenting with **procedural generation** in Blender
-- Building interactive worlds and camera systems in **Roblox Studio**
-- Designing mobile applications for mundane, everyday problems
-- Occasionally solving differential equations for entertainment — Frobenius method enjoyer
+Try to keep up.
+
+- Currently architecting a **tower defense game** — wave logic, tower economy, the usual elegant chaos
+- Experimenting with **procedural generation** in Blender, because manual labor is for people without imagination
+- Designing mobile applications for problems too mundane for me to care about, yet here we are
 
 ---
 
-## Research Log
+## Research Log (What I've Deemed Worth My Time)
 
 | Project | Description | Status |
 |---|---|---|
 | Tower Defense Game | Strategy game with wave-based enemy encounters and tower upgrade systems | In Progress |
-| Custom Roblox Camera System | Constrained viewfinder UI, zoom, "Crop Illusion" photo capture | Iterating |
-| Kos Service Ordering App | Mobile application for water, gas, and laundry ordering | In Progress |
-| Procedural Blender Scripts | Scene generation and UV unwrap automation | Completed |
+| Procedural Blender Scripts | Scene generation and UV unwrap automation | Completed — as expected |
 
 ---
 
 ## Tech Arsenal
+
+Tools I tolerate because they're useful.
 
 ![Python](https://img.shields.io/badge/-Python-8A2BE2?style=for-the-badge&logo=python&logoColor=E6E6FA)
 ![Git](https://img.shields.io/badge/-Git-9B30FF?style=for-the-badge&logo=git&logoColor=E6E6FA)
@@ -41,6 +41,8 @@ Computer and Informatics Engineering student at **Politeknik Negeri Bandung**, s
 ---
 
 ## Station Diagnostics
+
+You didn't ask, but I'll show you anyway. Numbers don't lie, and neither do I.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=140021&title_color=B980F0&icon_color=E6E6FA&text_color=C9B6E4&ring_color=8A2BE2" width="48%" />
@@ -50,6 +52,8 @@ Computer and Informatics Engineering student at **Politeknik Negeri Bandung**, s
 ---
 
 ## Transmission Channels
+
+If you must reach me. Try not to waste my time.
 
 <div align="center">
 
@@ -61,7 +65,7 @@ Computer and Informatics Engineering student at **Politeknik Negeri Bandung**, s
 
 <div align="center">
 
-*"Not everything needs an explanation. But if you insist... open an issue."*
+*"Curiosity isn't a hobby. It's a discipline. Most people just lack the patience for it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
