@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=Curiosity+is+the+only+currency+worth+collecting.;Boring+problems+deserve+elegant+solutions.;Currently+running+simulations+in+another+universe." alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8a2be2&style=flat-square&label=Dimensional+Visits)
-
 </div>
 
 ---
