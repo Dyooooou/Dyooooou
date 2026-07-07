@@ -2,10 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%2083&descAlignY=60&descColor=C9B6E4" width="100%"/>
 
-### Oh. You're here.
+Oh. You're here.
 
+<div align="center">
+Madame Herta — unrivaled genius. Madame Herta — inimitable beauty. Madame Herta — insufferably right, as always.
+
+</div>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=550&lines=I+don't+repeat+myself.+Read+carefully.;Mediocrity+bores+me.+Elegance+doesn't.;This+puppet+is+running+experiments%2C+not+small+talk." alt="Typing SVG" />
-
 </div>
 
 ---
