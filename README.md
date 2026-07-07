@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%20IX&descAlignY=60&descColor=C9B6E4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%2083&descAlignY=60&descColor=C9B6E4" width="100%"/>
 
 ### Oh. You're here.
 
