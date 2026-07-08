@@ -8,7 +8,7 @@
 
 *Madame Herta — unrivaled genius. Madame Herta — inimitable beauty. Madame Herta — insufferably right, as always.*
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRvcXFrN2ljdG8yOGZnbzVxMmZyZjd0NTk4eXh4NG53enY1Zno3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abUjguks7AcYd7NzPv/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/abUjguks7AcYd7NzPv/giphy.gif" width="300"/>
 </div>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=700&lines=I+don't+repeat+myself.+Read+carefully.;Mediocrity+bores+me.+Elegance+doesn't.;This+puppet+runs+experiments%2C+not+small+talk." alt="Typing SVG" />
 </div>
