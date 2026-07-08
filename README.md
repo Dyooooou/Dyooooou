@@ -1,27 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%2083&descAlignY=60&descColor=C9B6E4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%20IX&descAlignY=60&descColor=C9B6E4" width="100%"/>
 
-Oh. You're here.
+### Oh. You're here.
 
 <div align="center">
-Madame Herta — is a peerless gem. Madame Herta — is an unrivaled genius. Madame Herta — is an inimitable beauty, as always.
+
+*Madame Herta — unrivaled genius. Madame Herta — inimitable beauty. Madame Herta — insufferably right, as always.*
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRvcXFrN2ljdG8yOGZnbzVxMmZyZjd0NTk4eXh4NG53enY1Zno3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/abUjguks7AcYd7NzPv/giphy.gif" width="300"/>
 
 </div>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=700&lines=I+don't+repeat+myself.+Read+carefully.;Mediocrity+bores+me.+Elegance+doesn't.;This+puppet+is+running+experiments%2C+not+small+talk." alt="Typing SVG" />
+
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B980F0&center=true&vCenter=true&width=700&lines=I+don't+repeat+myself.+Read+carefully.;Mediocrity+bores+me.+Elegance+doesn't.;This+puppet+runs+experiments%2C+not+small+talk." alt="Typing SVG" />
+
 </div>
 
 ---
 
 ## About the Genius (You May Call Me Dyou)
 
-Computer and Informatics Engineering student at **Politeknik Negeri Bandung** — though "student" undersells it. I spend my waking hours between code editors and 3D, running experiments most people wouldn't understand even if I explained them slowly. Think of this profile as a puppet, a remote extension of the real work. The "space station" is just a laptop, but the ambition is the same.
+Computer and Informatics Engineering student at **Politeknik Negeri Bandung** — though "student" undersells it. I spend my waking hours between code editors and 3D viewports, running experiments most people wouldn't understand even if I explained them slowly. Think of this profile as a puppet, a remote extension of the real work. The "space station" is just a laptop, but the ambition is the same.
 
 Try to keep up.
 
 - Currently architecting a **tower defense game** — wave logic, tower economy, the usual elegant chaos
-- Experimenting with **procedural generation** in Blender, because manual labor is for people without imagination
-- Designing mobile applications for problems too mundane for me to care about, yet here we are
 
 ---
 
@@ -30,7 +34,6 @@ Try to keep up.
 | Project | Description | Status |
 |---|---|---|
 | Tower Defense Game | Strategy game with wave-based enemy encounters and tower upgrade systems | In Progress |
-| Procedural Blender Scripts | Scene generation and UV unwrap automation | Completed — as expected |
 
 ---
 
