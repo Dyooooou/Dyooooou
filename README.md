@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%20IX&descAlignY=60&descColor=C9B6E4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=THE%20HERTA%20PROTOCOL&fontSize=38&fontColor=E6E6FA&animation=fadeIn&desc=Genius%20Society%20Member%20No.%2083&descAlignY=60&descColor=C9B6E4" width="100%"/>
 
 ### Oh. You're here.
 
@@ -26,10 +26,7 @@ Computer and Informatics Engineering student at **Politeknik Negeri Bandung** �
 Try to keep up.
 
 - Currently architecting a **tower defense game** — wave logic, tower economy, the usual elegant chaos
-- Experimenting with **procedural generation** in Blender, because manual labor is for people without imagination
-- Building camera systems and interactive worlds in **Roblox Studio**
-- Designing mobile applications for problems too mundane for me to care about, yet here we are
-- Solving differential equations for entertainment — a Frobenius method enjoyer, obviously
+
 
 ---
 
@@ -38,9 +35,6 @@ Try to keep up.
 | Project | Description | Status |
 |---|---|---|
 | Tower Defense Game | Strategy game with wave-based enemy encounters and tower upgrade systems | In Progress |
-| Custom Roblox Camera System | Constrained viewfinder UI, zoom, "Crop Illusion" photo capture | Iterating |
-| Kos Service Ordering App | Mobile application for water, gas, and laundry ordering | In Progress |
-| Procedural Blender Scripts | Scene generation and UV unwrap automation | Completed — as expected |
 
 ---
 
